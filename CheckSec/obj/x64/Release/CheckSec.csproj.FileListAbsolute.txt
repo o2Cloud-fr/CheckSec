@@ -1,0 +1,14 @@
+C:\Users\MyAlien\source\repos\CheckSec\CheckSec\bin\x64\Release\CheckSec.exe.config
+C:\Users\MyAlien\source\repos\CheckSec\CheckSec\bin\x64\Release\CheckSec.exe
+C:\Users\MyAlien\source\repos\CheckSec\CheckSec\bin\x64\Release\CheckSec.pdb
+C:\Users\MyAlien\source\repos\CheckSec\CheckSec\bin\x64\Release\aa\CheckSec.resources.dll
+C:\Users\MyAlien\source\repos\CheckSec\CheckSec\obj\x64\Release\CheckSec.Form1.resources
+C:\Users\MyAlien\source\repos\CheckSec\CheckSec\obj\x64\Release\CheckSec.Properties.Resources.resources
+C:\Users\MyAlien\source\repos\CheckSec\CheckSec\obj\x64\Release\CheckSec.Form1.aa.resources
+C:\Users\MyAlien\source\repos\CheckSec\CheckSec\obj\x64\Release\CheckSec.csproj.GenerateResource.cache
+C:\Users\MyAlien\source\repos\CheckSec\CheckSec\obj\x64\Release\CheckSec.csproj.CoreCompileInputs.cache
+C:\Users\MyAlien\source\repos\CheckSec\CheckSec\obj\x64\Release\aa\CheckSec.resources.dll
+C:\Users\MyAlien\source\repos\CheckSec\CheckSec\obj\x64\Release\CheckSec.exe
+C:\Users\MyAlien\source\repos\CheckSec\CheckSec\obj\x64\Release\CheckSec.pdb
+C:\Users\MyAlien\source\repos\CheckSec\CheckSec\obj\x64\Release\CheckSec.csproj.AssemblyReference.cache
+C:\Users\MyAlien\source\repos\CheckSec\CheckSec\obj\x64\Release\CheckSec.csproj.SuggestedBindingRedirects.cache

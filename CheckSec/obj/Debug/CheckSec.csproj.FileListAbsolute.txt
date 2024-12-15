@@ -1,0 +1,10 @@
+C:\Users\MyAlien\source\repos\CheckSec\CheckSec\bin\Debug\CheckSec.exe.config
+C:\Users\MyAlien\source\repos\CheckSec\CheckSec\bin\Debug\CheckSec.exe
+C:\Users\MyAlien\source\repos\CheckSec\CheckSec\bin\Debug\CheckSec.pdb
+C:\Users\MyAlien\source\repos\CheckSec\CheckSec\obj\Debug\CheckSec.csprojAssemblyReference.cache
+C:\Users\MyAlien\source\repos\CheckSec\CheckSec\obj\Debug\CheckSec.Properties.Resources.resources
+C:\Users\MyAlien\source\repos\CheckSec\CheckSec\obj\Debug\CheckSec.csproj.GenerateResource.cache
+C:\Users\MyAlien\source\repos\CheckSec\CheckSec\obj\Debug\CheckSec.csproj.CoreCompileInputs.cache
+C:\Users\MyAlien\source\repos\CheckSec\CheckSec\obj\Debug\CheckSec.exe
+C:\Users\MyAlien\source\repos\CheckSec\CheckSec\obj\Debug\CheckSec.pdb
+C:\Users\MyAlien\source\repos\CheckSec\CheckSec\obj\Debug\CheckSec.Form1.resources
