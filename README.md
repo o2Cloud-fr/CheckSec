@@ -75,8 +75,7 @@ C#
 
 Here are some related projects
 
-[Awesome README](https://github.com/o2Cloud-fr/WinLock/blob/main/README.md)
-
+[Awesome README](https://github.com/o2Cloud-fr/CheckSec/blob/main/README.md)
 
 ## Roadmap
 
